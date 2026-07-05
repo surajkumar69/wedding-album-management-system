@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "service_1",
+    "createdAt": "2026-07-04T10:02:16.643Z",
+    "name": "Premium Photo Book Printing",
+    "description": "Elegant custom-designed wedding albums with lay-flat pages, fine-art paper, and high-definition color reproduction. Available in 12x36 and other custom sizes.",
+    "hidden": true
+  },
+  {
+    "_id": "service_2",
+    "createdAt": "2026-07-04T10:02:16.648Z",
+    "name": "Cinematic Wedding Videography",
+    "description": "High-definition video coverage, cinematic storytelling, and digital delivery. Features full event documentation, highlight reels, and background music integration.",
+    "hidden": true
+  }
+]

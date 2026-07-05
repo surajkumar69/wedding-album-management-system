@@ -1,0 +1,1862 @@
+[
+  {
+    "_id": "38lsogzox",
+    "createdAt": "2026-07-04T10:52:51.705Z",
+    "ownerId": "zd75ekivn",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_166856b3-401b-4149-95de-c30250010664.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_59a45a38-2fd6-48a7-9f0f-13664e4bf2ee.png",
+        "status": "pending"
+      },
+      {
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_eea7c25d-6866-449f-aff4-97f74bb7ff48.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_3717d03d-f401-47d9-9234-92a2c8d5a490.png",
+        "status": "pending"
+      },
+      {
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_43aab641-bb27-474c-a201-214836eff707.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_97e2f2bc-88c2-41a5-9282-d636d8b8b060.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": false
+  },
+  {
+    "_id": "2au73shgz",
+    "createdAt": "2026-07-04T10:53:10.267Z",
+    "ownerId": "2ecvmnxrs",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_1939bfd1-479d-48df-bead-0b4494ceabef.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_166f6708-a687-471d-8049-031d0514754b.png",
+        "status": "pending"
+      },
+      {
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_f2949673-d846-4668-b612-3946456310f3.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_bc2de51c-4d6a-4511-9d85-6c5d392e7242.png",
+        "status": "pending"
+      },
+      {
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_e8bb0f41-4e65-41c0-8f78-24a0c565baf6.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_7bc85992-ecd3-4719-8728-8fa4adb00cba.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": false
+  },
+  {
+    "_id": "hrz0jbmcv",
+    "createdAt": "2026-07-04T10:54:24.030Z",
+    "ownerId": "7d77w4y45",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_f5a28623-3065-4335-83a3-3a13873f2cd8.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_7d31d128-78b9-4072-b8a1-d3a9d12be909.png",
+        "status": "pending"
+      },
+      {
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_f4bd226c-185a-4ff1-aff4-aee5dd8d7cb9.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_1c5fcb9d-fcdb-42a2-9723-24c9a3df306f.png",
+        "status": "pending"
+      },
+      {
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_9813734a-69d2-404b-af68-10979f274c36.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_543e2073-aa7d-4e4b-b130-835535110891.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": false
+  },
+  {
+    "_id": "gerypwsrs",
+    "createdAt": "2026-07-04T10:55:18.059Z",
+    "ownerId": "uevibolrb",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_a7b9cf62-68ce-4d6f-aad7-8f6b9a9a2dea.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_246197d0-4f17-4707-808b-a80f2db5fd6c.png",
+        "status": "pending"
+      },
+      {
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_d8815679-2493-47d3-a72c-6132a0a18a98.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_ebc03ca9-5b13-4821-9ab5-5adb700e48cc.png",
+        "status": "pending"
+      },
+      {
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_97b5f360-6fd2-471f-bb08-d392b24a5343.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_bd9939b8-a4aa-4603-9979-f091517709f8.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": false
+  },
+  {
+    "_id": "ak0ezb0jc",
+    "createdAt": "2026-07-04T10:55:36.196Z",
+    "ownerId": "polvquxjk",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_72fa39f5-fdd0-4b3d-9687-c0186877a40d.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_55af7a77-1b45-4d91-9b38-d536405e064e.png",
+        "status": "pending"
+      },
+      {
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_2da5f1b5-5cd8-439d-93a6-e96bfeb806c5.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_56c55dd4-43c1-4352-a37d-d5f559c1fb24.png",
+        "status": "pending"
+      },
+      {
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_73cd9c2c-5d0c-4c7d-98cf-a0a137e075cf.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_702fd269-1f94-4af5-a1ee-5db9cef405c8.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": false
+  },
+  {
+    "_id": "lhg4r3mrp",
+    "createdAt": "2026-07-04T10:56:30.074Z",
+    "ownerId": "8c4l25xyo",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_5809da16-815f-43d0-8872-9411f6b9d04f.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_f0e4e1f8-a361-4918-be70-c69c9485e6e6.png",
+        "status": "pending"
+      },
+      {
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_292fbaf7-e49e-4e1e-a067-ce677024cc65.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_4ec9d5b7-055b-4f7d-a836-8bd065a2a875.png",
+        "status": "pending"
+      },
+      {
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_09df8ba8-d721-416f-a733-d3d5d3375592.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_4d82fbcc-8333-402c-9529-a528bfacc98f.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": false
+  },
+  {
+    "_id": "ks2cdapow",
+    "createdAt": "2026-07-04T10:57:12.542Z",
+    "ownerId": "5n9pajlkk",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_x4jc7a3rj",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_dd2e4731-1323-4300-b496-b6dbb6bcc404.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_893a66ca-126e-48e8-bc2b-a8a5f5b6cbaa.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T10:57:12.553Z"
+      },
+      {
+        "_id": "photo_hv6xbiq4a",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_de933950-2c6c-4d26-9732-5ea100a41472.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_32a8de37-0899-40e3-a7e8-590914ae3f96.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T10:57:12.558Z"
+      },
+      {
+        "_id": "photo_fc2crizix",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_088294df-dda6-478d-94c3-ed597b91ae4d.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_69ea309d-4491-4e72-bdac-6031e2d1d548.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": true,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  },
+  {
+    "_id": "6vkkyl5lw",
+    "createdAt": "2026-07-04T10:57:49.527Z",
+    "ownerId": "bkwykd0b3",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_wwq53mxsa",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_f4dabf6c-0b04-4d73-9e45-a0f4b93c8b64.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_87f44402-8a0f-4a5b-83ee-94d2efd51e5a.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T10:57:49.536Z"
+      },
+      {
+        "_id": "photo_wqfnex5xn",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_2cea8afb-e0c3-447a-9779-15312b31cd46.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_563d4d20-e093-4a80-82c5-9d0a09a0521e.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T10:57:49.541Z"
+      },
+      {
+        "_id": "photo_qggv76g9s",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_94020718-fd8c-4273-af83-28e053f0e13f.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_18d3076d-ff0b-4a0f-a54a-ed6e222dfdd7.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  },
+  {
+    "_id": "0tt88dv4n",
+    "createdAt": "2026-07-04T11:17:15.236Z",
+    "ownerId": "e8uv1ulue",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_ll6tb9ufx",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_4cf8c991-9e04-4139-8449-bccecf04eabb.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_d838e232-382c-400b-bd10-50d0e7f3dcf6.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T11:17:15.243Z"
+      },
+      {
+        "_id": "photo_a9amcld6o",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_d92528fc-677c-4202-b793-d120c0226970.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_1d5ca284-8aef-40d6-8eb4-d66ac7d1de77.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T11:17:15.248Z"
+      },
+      {
+        "_id": "photo_1htbfm5ay",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_44fb8a78-d1e8-4e14-b09b-325d4ba32006.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_d5d728a0-27f7-4531-b8c0-67f85e22da4e.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  },
+  {
+    "_id": "6t0tmgs2f",
+    "createdAt": "2026-07-04T11:33:20.111Z",
+    "ownerId": "6ivlv695d",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_hghrkztvn",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_15c261af-b8ce-484d-9c4c-a80d261c47ed.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_31553824-480c-4e39-a896-df44a5c8d6e5.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T11:33:20.119Z"
+      },
+      {
+        "_id": "photo_uc3s9kfl9",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_b206bd39-1484-469e-8d49-0ea19c20d9ee.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_b3bb3663-c547-4ae3-84ba-525cc69cd0ee.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T11:33:20.124Z"
+      },
+      {
+        "_id": "photo_p0hfhf01t",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_f0417b69-66ff-4530-a974-b43e5870cc35.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_806f6d30-a4e1-4546-9151-a34503156c1f.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  },
+  {
+    "_id": "6lus24o63",
+    "createdAt": "2026-07-04T11:39:17.853Z",
+    "ownerId": "ayj5j1uvr",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_bvwtqs6cq",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_19549733-9879-4d9e-94c3-cc6a202746ec.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_7b5f6e21-a88a-4355-98e3-e1f43bf8aab2.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T11:39:17.862Z"
+      },
+      {
+        "_id": "photo_xpabadd1i",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_0708072e-2b32-4b6f-8499-5f598d799889.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_15567cc3-a913-4929-b6a0-64a63bed03b9.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T11:39:17.866Z"
+      },
+      {
+        "_id": "photo_5j0mty3st",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_f11cdf8e-26c4-4e42-bc7e-d6074fa1523e.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_b5eb9585-8597-461e-822c-00888da1603d.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  },
+  {
+    "_id": "yeai7v88m",
+    "createdAt": "2026-07-04T11:41:18.041Z",
+    "ownerId": "xizh34e6j",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_qlrv4ajqb",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_4e88fc30-53bc-4fea-844e-2eb9dba46a58.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_75caab48-0405-4216-b9f7-d14179198796.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T11:41:18.048Z"
+      },
+      {
+        "_id": "photo_49cymppu9",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_42624645-138c-4d48-aac0-5ef667cbc41b.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_274538f7-f785-4677-816d-8eab9cb60841.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T11:41:18.053Z"
+      },
+      {
+        "_id": "photo_7p1h2q0j5",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_83aa932b-bccf-4288-8403-3eb015a0f7ed.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_32cb9650-6ec8-4e23-911d-1fe45e95d0ec.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  },
+  {
+    "_id": "hk8fn0x1u",
+    "createdAt": "2026-07-04T11:56:17.731Z",
+    "ownerId": "xwxchngxc",
+    "title": "Large Wedding Portfolio",
+    "photos": [
+      {
+        "_id": "photo_jh7he4h7s",
+        "name": "wedding_photo_2.png",
+        "url": "/uploads/selections_original_611908f5-daef-4df5-9fed-4eeb0f50dde0.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_d5b7f745-9abd-4464-9b06-57eb4d8a6195.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_a49qb7kv7",
+        "name": "wedding_photo_3.png",
+        "url": "/uploads/selections_original_998af8a4-3176-4cbb-bbb6-dc7f984e2151.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_3de1215e-78c4-45ed-964b-a20d12316380.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_np1l758tl",
+        "name": "wedding_photo_7.png",
+        "url": "/uploads/selections_original_5850007e-d734-4fc1-a7b4-2cb97001ecb5.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_0f738ce5-6292-41f9-b9eb-ec92b6684889.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_mf35twonj",
+        "name": "wedding_photo_1.png",
+        "url": "/uploads/selections_original_444b0897-8cef-435c-89c5-267ee5bb83fb.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_7721c505-261f-4891-b896-281b95db8644.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_qjp3h7y72",
+        "name": "wedding_photo_4.png",
+        "url": "/uploads/selections_original_d58c869d-1c88-45ab-a939-0eb2da9412b8.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_de2ed4d9-335a-4931-bb69-b99b3d9ce40d.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_q8lc9a4zo",
+        "name": "wedding_photo_5.png",
+        "url": "/uploads/selections_original_8c6369be-2f3c-4962-b0aa-162573080e9d.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_cfc319d9-c5e9-49a1-b7f5-918866eb619f.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_0np7uggmb",
+        "name": "wedding_photo_8.png",
+        "url": "/uploads/selections_original_3e532b43-e998-44cf-a045-2a427c407e97.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_ed6eb531-df62-49a2-9dd8-b1e4c3485b4f.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_6yia33sqh",
+        "name": "wedding_photo_10.png",
+        "url": "/uploads/selections_original_b7a1f501-d3f7-4ec1-a73e-72b63603b181.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_e6cdcf1f-b80f-49bb-97cf-3d27eef7a0dc.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_1nln63df3",
+        "name": "wedding_photo_9.png",
+        "url": "/uploads/selections_original_072b16ea-ea0f-4bf4-a80b-109710c9fc85.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_d58a2268-cc9d-45c7-a718-49ed72c9b183.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_3cgcpg5m7",
+        "name": "wedding_photo_6.png",
+        "url": "/uploads/selections_original_4f03fc8b-c5c6-4c5c-9997-79f6d303df22.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_7ee2f535-7fa2-4332-a2c9-b7214009cf4d.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_kf69qgxy3",
+        "name": "wedding_photo_11.png",
+        "url": "/uploads/selections_original_0a4d0582-04aa-45ab-8998-c9c475b46659.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_8698c586-bb9b-41fb-9b1d-93cd015c6da2.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_ze9pxn5dw",
+        "name": "wedding_photo_13.png",
+        "url": "/uploads/selections_original_a71f7337-7b3a-4892-b55d-300338b45eed.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_d4dddbd1-4790-455d-8752-757c5ab30a7b.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_c6nygfzyj",
+        "name": "wedding_photo_15.png",
+        "url": "/uploads/selections_original_13aff5ec-2dea-4d31-92d4-140caf9ea558.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_dd2858ea-36b9-4f76-a4ac-da6af2b93056.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_83vecqu0c",
+        "name": "wedding_photo_16.png",
+        "url": "/uploads/selections_original_e37ff341-1ab9-4138-ad75-18ad69262c36.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_c3194e77-7e4c-4f69-aed9-985d37dfb64c.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_rj3yo2oiz",
+        "name": "wedding_photo_14.png",
+        "url": "/uploads/selections_original_6b631cd0-3b4f-4ba9-a9a0-39379952fd63.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_200d5e8f-ef10-4bfd-869e-4feb250c2c79.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_q5tm50f3h",
+        "name": "wedding_photo_12.png",
+        "url": "/uploads/selections_original_7a0cfcf3-1686-4545-a0b7-05d0cd69103f.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_4d329bb4-7660-4d06-8a43-2b90e49c15ce.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_4msloeo0d",
+        "name": "wedding_photo_18.png",
+        "url": "/uploads/selections_original_dbb311e0-3b3c-4e02-9cc3-9d859a169469.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_0777cb45-8d63-4fe7-be5b-f1fcc4923f6b.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_u1v697woa",
+        "name": "wedding_photo_17.png",
+        "url": "/uploads/selections_original_6e3dbe5b-34c8-4e05-b693-16d14846863a.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_2e938245-82c6-43ba-9994-145ed6c78ca5.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_poxg8xvms",
+        "name": "wedding_photo_19.png",
+        "url": "/uploads/selections_original_4d570db8-ce7c-4b2b-a436-35ecf601fe78.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_d842164f-3007-4e8a-94aa-2a1fe3a993e8.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_h5to3zfur",
+        "name": "wedding_photo_20.png",
+        "url": "/uploads/selections_original_f14d8bbf-c9f3-4e4f-ad21-fd1e4412592f.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_66e075f7-887c-418e-b7b6-e98df7bd7d78.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_q9qtwy752",
+        "name": "wedding_photo_24.png",
+        "url": "/uploads/selections_original_ad35d078-5fc4-4cf8-b3fd-c52540db92b1.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_0512876f-8e20-4d6a-85b8-fbd7745df131.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_9cvsj7cdd",
+        "name": "wedding_photo_21.png",
+        "url": "/uploads/selections_original_f362db32-86ba-4dea-9a76-db8a95bc0db7.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_37865d37-a8de-4655-8202-20b3af274487.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_x95biqqhz",
+        "name": "wedding_photo_22.png",
+        "url": "/uploads/selections_original_d0f27d36-23d5-4159-b5bc-5fa3807c098e.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_6fa96c3b-bd3d-45da-a3ef-cb3c4e262d08.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_ftukjdupb",
+        "name": "wedding_photo_27.png",
+        "url": "/uploads/selections_original_6c7cebeb-c319-4fe5-8f20-8a236afd9e8e.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_15958fdf-b2fb-4e11-a3e8-8c91e5891597.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_soedcsckw",
+        "name": "wedding_photo_25.png",
+        "url": "/uploads/selections_original_79e15fca-f4d1-4f44-9c4a-09f5a2031412.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_ed2452c4-ff9c-4874-b4f3-41adcfa1e32c.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_gzyjgyvw6",
+        "name": "wedding_photo_28.png",
+        "url": "/uploads/selections_original_56fc7ce1-fd6b-450f-903e-2975aff77744.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_a8fc21c5-260c-4890-a723-59b160578f97.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_t1y9e8fqj",
+        "name": "wedding_photo_23.png",
+        "url": "/uploads/selections_original_62808d98-7c2b-422a-8aae-d0b2a39f95a7.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_5b02e35b-111d-4a94-8b8f-1016b55fca3d.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_8e2enf1pc",
+        "name": "wedding_photo_29.png",
+        "url": "/uploads/selections_original_65dea618-0140-4561-859d-d9ed1655d917.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_8a341bcd-f202-48d2-95a7-ae2d7540381c.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_72bpb5dqt",
+        "name": "wedding_photo_26.png",
+        "url": "/uploads/selections_original_4d81d66d-8bf4-4364-9627-b83de233b0d3.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_58770736-5632-47c5-bb3a-65c64c86f32a.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_bmrie2ei6",
+        "name": "wedding_photo_30.png",
+        "url": "/uploads/selections_original_1aaea749-d627-4f4e-bf4f-d64c813d6528.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_eee16283-826e-410a-8089-80184716bf81.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_edsphfx6k",
+        "name": "wedding_photo_34.png",
+        "url": "/uploads/selections_original_8ea94c89-0710-43d7-b368-83f281736200.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_df1f0334-a54b-4026-a317-671879b4b457.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_t4cpejo0r",
+        "name": "wedding_photo_33.png",
+        "url": "/uploads/selections_original_1376fc2e-5ed9-4e0a-9315-2a8c8e510a8d.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_005146dc-8711-4e81-96ff-e4d760ec3e9c.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_8dog35gg9",
+        "name": "wedding_photo_31.png",
+        "url": "/uploads/selections_original_a0ad05c9-6abe-4fca-adb5-f500173984b2.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_066fd7b3-06a9-4683-900a-bf8174b9a8be.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_skk2bkao1",
+        "name": "wedding_photo_36.png",
+        "url": "/uploads/selections_original_e02e9de6-6da6-4b5e-bce5-cb2dc33cca2b.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_a0ffd49d-30d9-455f-b293-03bf030cc979.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_7017csufw",
+        "name": "wedding_photo_32.png",
+        "url": "/uploads/selections_original_9b63bd9d-3e27-40e2-8cfd-883995055dec.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_64647e72-f9fa-4e11-8304-9fd5d46175c1.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_9l886gjg8",
+        "name": "wedding_photo_35.png",
+        "url": "/uploads/selections_original_ec8e1375-7dee-419c-8750-dd2fd4d6d939.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_a458e0b3-c1ef-40ac-8daf-69b589088f1e.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_8v6dlx4e8",
+        "name": "wedding_photo_38.png",
+        "url": "/uploads/selections_original_f995bd59-1ec8-419b-9392-5e438abf0f6f.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_8d0258be-c82a-4a29-bfd5-61dd366dda69.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_7tw2i9wtr",
+        "name": "wedding_photo_37.png",
+        "url": "/uploads/selections_original_af5a8a67-2fb1-46ef-92fd-949550d123fc.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_c10fc805-6ad2-4d5a-9f16-55a97c037695.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_333ktis4r",
+        "name": "wedding_photo_39.png",
+        "url": "/uploads/selections_original_2e061d39-81c0-48b8-990c-9b2d3fb8926c.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_5969906a-b353-4bef-876a-a5cb4e1de154.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_pj6j41dd1",
+        "name": "wedding_photo_40.png",
+        "url": "/uploads/selections_original_179dc8f3-ac51-4c90-a7f4-d2945f5de77e.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_8400fae9-bcd8-4f07-a599-5b9f5d004e5a.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_b0z9gn0qh",
+        "name": "wedding_photo_42.png",
+        "url": "/uploads/selections_original_0fdb1e27-1a33-42b2-afea-194768597b58.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_2089c72a-36f6-4cb3-a0bd-1a76601dfde5.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_9iu42sslb",
+        "name": "wedding_photo_44.png",
+        "url": "/uploads/selections_original_c4d49b45-1f1e-4a34-a47d-8ad459fd2633.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_3bfc351c-4234-473e-b444-0b89dbcd337d.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_jxu6l1zqm",
+        "name": "wedding_photo_43.png",
+        "url": "/uploads/selections_original_c534dfd3-57e1-4bfa-b7c0-92224e427938.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_9048a0ee-8d3c-4818-a2a1-2e33d2d7ec56.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_yzl3td9q2",
+        "name": "wedding_photo_46.png",
+        "url": "/uploads/selections_original_ee649e7f-fb61-4e80-ac4e-8abd7849614d.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_e640edf4-55c9-4057-81b5-ef5cef85d720.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_ofd8d651y",
+        "name": "wedding_photo_45.png",
+        "url": "/uploads/selections_original_576a6428-6531-45c1-b0e4-a93e61d006a7.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_d975ad1a-d5f5-4cd0-8271-9fb1407c989f.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_4vzhjbup8",
+        "name": "wedding_photo_48.png",
+        "url": "/uploads/selections_original_47da2e85-28fe-43a0-acc1-c20a37042ad3.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_804e12f8-82e8-4ee0-b1ed-a263c4806386.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_eyegz5jvu",
+        "name": "wedding_photo_41.png",
+        "url": "/uploads/selections_original_d8f77f5f-44a3-4a57-a926-2b8cd21e9367.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_6fda76be-5e59-4c3f-a711-e5444ffb8a51.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_c8mnwlehz",
+        "name": "wedding_photo_47.png",
+        "url": "/uploads/selections_original_ad58b436-42bd-4381-bff5-801329870e22.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_23553ad2-3120-49d3-a37d-50ee99bd20e2.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_vgfyi2a4h",
+        "name": "wedding_photo_50.png",
+        "url": "/uploads/selections_original_bd71bf4b-49d5-491b-9197-0cf4248513b0.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_f65cd156-bd77-4144-8317-555304ae86ff.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_yn3yu2wnt",
+        "name": "wedding_photo_49.png",
+        "url": "/uploads/selections_original_7b5586dd-02d7-439c-958c-8b3798cf0204.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_9f3f1af1-79c3-49a4-b532-14d53850982f.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_2kkjcxz59",
+        "name": "wedding_photo_51.png",
+        "url": "/uploads/selections_original_da37fa50-8697-4c72-ae83-b82572a54fa7.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_8ee8be53-6243-44b0-aaf0-4192aa78756d.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_h84ulbk8h",
+        "name": "wedding_photo_54.png",
+        "url": "/uploads/selections_original_aabc63a0-e952-4a1f-8b7c-5fd0074f9802.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_7605e353-49b7-4e12-b65b-eab8421d665c.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_mc4xf7pel",
+        "name": "wedding_photo_52.png",
+        "url": "/uploads/selections_original_7a7d366d-0023-4009-bad7-307e06bc5d1f.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_70300c00-0ed3-4b4b-b441-a566051a660a.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_9fftari42",
+        "name": "wedding_photo_53.png",
+        "url": "/uploads/selections_original_5f8c7365-b7f5-4bd3-b575-b9596c9efc09.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_f0e6331f-ea95-4c8f-b22a-3bfe73a20883.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_45ndhvz0m",
+        "name": "wedding_photo_56.png",
+        "url": "/uploads/selections_original_3078592c-36aa-4ee4-b37d-c94ce756dd6d.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_009a4b22-ceae-4665-b38a-49f092f72789.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_kzv9fltsi",
+        "name": "wedding_photo_57.png",
+        "url": "/uploads/selections_original_471a126b-66f0-4822-9cd5-afc116e94066.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_405bba1b-b20f-4692-a1ca-1c70a8e0ad1f.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_sxdw9zzv2",
+        "name": "wedding_photo_55.png",
+        "url": "/uploads/selections_original_5bd965a3-83ca-4bd9-aad4-47a937384f17.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_62f1e112-b04b-4d07-995d-c65e0e48383d.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_q7phf6fg9",
+        "name": "wedding_photo_58.png",
+        "url": "/uploads/selections_original_6a2163d0-cf21-4aa5-8ff6-8f9e45b3f8c0.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_a7e055f7-632c-412f-bbd2-ca35ca09dc91.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_uzyzs5ola",
+        "name": "wedding_photo_60.png",
+        "url": "/uploads/selections_original_1c529ac9-0173-4e6f-b0b5-f45c42c76e94.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_44c829d2-39a4-4041-b695-2155ddf82d3e.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_zvbsou4vj",
+        "name": "wedding_photo_59.png",
+        "url": "/uploads/selections_original_1f6ecf33-7351-4ef3-8a94-f3051ec0569e.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_1137ce67-52d7-4973-aa81-af81ac533ec9.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_nygcdpezy",
+        "name": "wedding_photo_63.png",
+        "url": "/uploads/selections_original_85a8ede1-5fe7-4d16-9368-bd529f99dc53.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_545be601-49a0-4c97-ad7e-d4626fef1217.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_9ezabcvpr",
+        "name": "wedding_photo_61.png",
+        "url": "/uploads/selections_original_0ea4359a-efdc-4d50-93de-324194140788.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_7eee0cb0-02df-4aa8-ab98-2bf6fbba9db1.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_opnwe7lrf",
+        "name": "wedding_photo_64.png",
+        "url": "/uploads/selections_original_569ba1b8-db38-43ca-bb1a-177c8eaddd25.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_c0da6e31-4d42-415a-97db-459f7545f35e.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_4iqm3itvk",
+        "name": "wedding_photo_62.png",
+        "url": "/uploads/selections_original_726a0094-5175-4d6b-be07-0c21a0f3e7f7.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_860d47db-bbb5-4cc2-97e8-b5ea6475dfcc.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_hdyakaa9g",
+        "name": "wedding_photo_65.png",
+        "url": "/uploads/selections_original_2f3f17a7-6b9a-499f-be80-795ba80529cd.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_9ab26128-06db-448a-a9fa-75d94d9b676d.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_0ea2xyk90",
+        "name": "wedding_photo_68.png",
+        "url": "/uploads/selections_original_80cc1c17-53f3-414c-b1b1-af32fc564291.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_ac01273f-8b62-43a2-8962-763a32e701ec.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_kzq81yak1",
+        "name": "wedding_photo_66.png",
+        "url": "/uploads/selections_original_9206f2b3-5c0d-479a-aacf-77709e859ac5.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_23ec8649-7d33-42e4-9094-8f4bd79e6cfb.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_oh8zzr1c7",
+        "name": "wedding_photo_67.png",
+        "url": "/uploads/selections_original_2cde4047-29e6-4da1-808d-b96e3b8c80d4.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_b240da23-55c5-417c-8efd-98ea21d76866.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_e6x03gtcl",
+        "name": "wedding_photo_69.png",
+        "url": "/uploads/selections_original_ee8b2be0-f6ab-4e0a-8bad-d3f17db33ef1.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_da8166b0-7bcd-4bbf-891b-19162f7bae19.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_uvjarzlsg",
+        "name": "wedding_photo_70.png",
+        "url": "/uploads/selections_original_d959dd30-883b-42db-af4d-bd84d08c165a.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_4876c77b-0d53-4fa9-930c-458d881ff6fd.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_nzjch2n1a",
+        "name": "wedding_photo_73.png",
+        "url": "/uploads/selections_original_bd07f62b-f0c0-413b-a8f1-32c0bdfed64f.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_bfbd9d5a-b80d-4b10-91f8-5f2b1e4fcaaf.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_cp9qu7vxk",
+        "name": "wedding_photo_71.png",
+        "url": "/uploads/selections_original_c7323618-533b-4ba8-a859-8076d9c53744.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_463111dd-fc4e-4b86-9cd7-a1a4946ab78d.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_woqg3339r",
+        "name": "wedding_photo_72.png",
+        "url": "/uploads/selections_original_d3afb4c6-076f-4de8-ba33-c74bc214d4ea.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_2bfa275f-aede-40df-b22c-5403de046911.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_xep3hor9i",
+        "name": "wedding_photo_76.png",
+        "url": "/uploads/selections_original_666cceda-7e04-46c1-8dc4-6117a84a46c9.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_2976b343-3ef8-4d5c-b285-200450793bc1.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_jedac2mhq",
+        "name": "wedding_photo_78.png",
+        "url": "/uploads/selections_original_3986abe6-d479-4539-85d1-dba83c6cb37a.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_17fd891e-f18d-4a4c-b31d-c4cd173136aa.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_kezd4wjky",
+        "name": "wedding_photo_75.png",
+        "url": "/uploads/selections_original_49c90ec6-0a51-4782-80fa-783dafd88c7c.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_bf7d7594-4b09-41e8-97eb-722ac0292ef8.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_zkvyhmg0n",
+        "name": "wedding_photo_77.png",
+        "url": "/uploads/selections_original_77f5e877-6c90-4f43-857c-0f92997a14a1.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_61c82ac3-6624-410b-a4d2-03aa747d08c0.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_81v6rta3l",
+        "name": "wedding_photo_79.png",
+        "url": "/uploads/selections_original_94892cfa-8295-4d53-b087-4432dc379969.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_d2fcb6aa-239b-4ed9-b4a7-cd35a38a530e.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_mzz3k02vw",
+        "name": "wedding_photo_74.png",
+        "url": "/uploads/selections_original_6d6fc904-99bc-44f1-a166-56fa0495eae5.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_d6824d49-5dca-4cf9-81b6-7e864c25b54a.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_pauo90kvi",
+        "name": "wedding_photo_80.png",
+        "url": "/uploads/selections_original_7803e99f-4abd-4ef9-9328-d9c0767e7196.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_756207da-d506-4f40-837a-7f89ce3e062a.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": false
+  },
+  {
+    "_id": "cjk8rtu4t",
+    "createdAt": "2026-07-04T11:56:23.919Z",
+    "ownerId": "vil4w7w49",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_e4wmh5y2h",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_7f1a4856-4afb-45b6-bcc6-e9401a1c3f40.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_ff2e5bb5-557b-4add-b64c-da5ac6697bb0.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T11:56:23.927Z"
+      },
+      {
+        "_id": "photo_41bd4pq7c",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_85043052-7943-4d4f-bfb4-c8aaef5e4208.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_ccbdfdc4-27af-4709-af92-cd2ed1069bc5.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T11:56:23.932Z"
+      },
+      {
+        "_id": "photo_sl8czxpfp",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_1bb0462d-939e-43d3-8d8c-57754edd8670.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_46cf82ef-e799-4f32-ad39-133d3d6584de.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  },
+  {
+    "_id": "dbzziilx4",
+    "createdAt": "2026-07-04T11:58:49.835Z",
+    "ownerId": "8xyoj7o3b",
+    "title": "Large Wedding Portfolio",
+    "photos": [
+      {
+        "_id": "photo_c0qckzoqt",
+        "name": "wedding_photo_1.png",
+        "url": "/uploads/selections_original_009edb51-0377-4f7d-815b-2e83e8ff8ce1.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_42e02a0b-fc3b-4765-845c-19cb004315f1.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_4phclfxko",
+        "name": "wedding_photo_3.png",
+        "url": "/uploads/selections_original_cd58ed19-9556-407c-b09a-d852abeca956.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_8853a128-6014-41e2-9414-19228b968ab7.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_tfingg1hf",
+        "name": "wedding_photo_2.png",
+        "url": "/uploads/selections_original_449b0c09-a8a0-4b9e-99ee-7c49550bc992.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_b1246408-b6db-4d56-a066-dcaae1a9934e.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_5m1q3vqix",
+        "name": "wedding_photo_4.png",
+        "url": "/uploads/selections_original_0671f7f5-e66a-4f95-8f00-3665a8897a43.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_166e8925-10ee-4255-bf37-501457c88801.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_hb59dpww8",
+        "name": "wedding_photo_5.png",
+        "url": "/uploads/selections_original_99c61dfd-2a8f-415a-92ea-163e121316ae.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_9398b68b-1454-451d-8e53-4ce18de1dfda.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_zejerdxdi",
+        "name": "wedding_photo_7.png",
+        "url": "/uploads/selections_original_9e98d35d-be7b-4ed2-88bc-4a517a4d1e62.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_465343c8-7377-4556-8933-fb06b9349f47.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_fdzhrgflu",
+        "name": "wedding_photo_6.png",
+        "url": "/uploads/selections_original_ddcd57ab-b88e-4b09-b4ed-467a078c2c4e.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_b3d87b12-5962-4020-b6e1-a01b3989d242.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_3w19lq8vu",
+        "name": "wedding_photo_8.png",
+        "url": "/uploads/selections_original_071034c4-f380-4b64-b458-9965e760a48d.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_12a7224d-bc0d-4d8c-978f-b390a34791f9.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_0ecs2nme0",
+        "name": "wedding_photo_9.png",
+        "url": "/uploads/selections_original_2d422bb6-d821-4dd1-b8ff-5ff860ab3c34.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_f19d04ba-7a39-4c55-8ebb-3a42b7eb3f0f.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_k8c8jwhgw",
+        "name": "wedding_photo_10.png",
+        "url": "/uploads/selections_original_c6a6912d-08ac-45a7-931e-20acd7bfb6aa.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_4edf5815-2998-4055-859f-791960f7c3a3.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_842lo6b4i",
+        "name": "wedding_photo_14.png",
+        "url": "/uploads/selections_original_08e5dd8d-1d76-4a12-ac80-10cd3618fe80.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_6732ed9c-5701-44c3-b877-6e4e4972bb6f.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_8dvp6evf7",
+        "name": "wedding_photo_12.png",
+        "url": "/uploads/selections_original_43917942-6de5-416e-a964-65926d9c3535.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_cbc42713-a19b-4ccc-912a-b3060c025146.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_hwzkp1gqw",
+        "name": "wedding_photo_11.png",
+        "url": "/uploads/selections_original_5e035483-68a4-4a7b-8b16-9f0c5d5e1706.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_3c8bf266-7c83-4640-aeef-406b2264c56d.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_x16s0868c",
+        "name": "wedding_photo_18.png",
+        "url": "/uploads/selections_original_a7eb5130-f44e-46db-9a68-f05b4a081f19.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_fbe061ac-06cf-4edf-ad38-db738086d6f1.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_3iiln63bm",
+        "name": "wedding_photo_15.png",
+        "url": "/uploads/selections_original_9a3397fd-51fe-4bf5-880d-bbd7667d78d5.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_817e3417-c9de-4a2d-bb60-49509d61b9ac.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_a1owu50dn",
+        "name": "wedding_photo_13.png",
+        "url": "/uploads/selections_original_7c0fab36-50b6-4fd1-a835-3f3e71080505.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_901e44b5-c605-417e-9090-ca18946b2b8b.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_f6uo6tesh",
+        "name": "wedding_photo_17.png",
+        "url": "/uploads/selections_original_8fcfbd6b-54a4-4cb0-88dc-648f129bb5cc.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_e893cf3d-827a-4de1-a1cb-43353e189fed.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_n1h3dgazd",
+        "name": "wedding_photo_19.png",
+        "url": "/uploads/selections_original_413e1780-f99c-46fb-a50f-8446dc1b287a.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_4fdbed00-5359-40d1-b197-fe564ec767e3.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_guumztsfu",
+        "name": "wedding_photo_16.png",
+        "url": "/uploads/selections_original_678727c7-e296-4f86-ae38-f505a335b68e.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_9f6ff9dc-1783-4dc0-b047-10d90e6aa775.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_t77isxf89",
+        "name": "wedding_photo_20.png",
+        "url": "/uploads/selections_original_1772eca4-f184-4a14-9410-f7728332d1bb.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_2baf8151-7a6d-4b1f-8d74-796802941f8b.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_24gwpynm6",
+        "name": "wedding_photo_21.png",
+        "url": "/uploads/selections_original_d02db447-0ed4-4f28-8eed-d961dec87bb5.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_25f4da10-00c7-49ec-a630-f5c85baed052.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_byl5iop86",
+        "name": "wedding_photo_24.png",
+        "url": "/uploads/selections_original_dc120d6b-0aef-4a82-b832-d1a48ea9782a.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_92a42a85-e08b-47bd-a222-5c4610e58185.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_27tzk7bpw",
+        "name": "wedding_photo_25.png",
+        "url": "/uploads/selections_original_a645f4cb-caf3-4e97-86ac-3e49087bf22b.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_862b18df-6a55-427c-bf49-18b208636a97.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_z2zthem7o",
+        "name": "wedding_photo_22.png",
+        "url": "/uploads/selections_original_79dfb448-a994-4c7d-a019-8e4e5e11d0e1.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_def70f95-d8fe-4f58-a6b0-f41cc42c6f42.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_5knk9kgmt",
+        "name": "wedding_photo_26.png",
+        "url": "/uploads/selections_original_9be8039f-eb3e-4426-8245-59d2ca9ab359.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_a1655536-1061-496c-bded-ff3b7a13e2b4.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_jeaodyz35",
+        "name": "wedding_photo_27.png",
+        "url": "/uploads/selections_original_27856310-5d58-46d0-b09c-713509c0852d.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_6084f6d2-cb0c-4a44-8829-07083ab89560.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_zg0f8vytt",
+        "name": "wedding_photo_23.png",
+        "url": "/uploads/selections_original_bbbee093-c241-4555-acc5-19762f960c1b.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_8e90d56b-1675-4857-bc26-60bde4cfa35a.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_j0cgin223",
+        "name": "wedding_photo_28.png",
+        "url": "/uploads/selections_original_c0bb9308-44ef-45dc-8c51-2854cc32a0c8.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_0add8336-3506-4896-8af4-1682a0ee3436.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_sz8oh5tga",
+        "name": "wedding_photo_29.png",
+        "url": "/uploads/selections_original_1776d0ce-7ee3-47f0-b2df-5c720c49fac8.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_a4a989b6-03c1-4022-bdd8-a93fffd97db1.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_aap4uyomu",
+        "name": "wedding_photo_30.png",
+        "url": "/uploads/selections_original_dc522e50-adca-4054-8987-e62c0f0ab794.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_a740781e-32e4-46b6-abc3-f046357246c8.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_g8bs49ogi",
+        "name": "wedding_photo_33.png",
+        "url": "/uploads/selections_original_955de94c-0615-4594-87da-d4b98f27332f.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_70b155f9-7ce7-4d00-a4f4-c4052b45d958.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_5mc6l4p7w",
+        "name": "wedding_photo_32.png",
+        "url": "/uploads/selections_original_acf2375f-aaac-4f83-be87-c863824cb486.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_af68acd9-d322-4f13-b201-7f3a281adefb.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_u5z0hy88n",
+        "name": "wedding_photo_31.png",
+        "url": "/uploads/selections_original_94936808-21f2-4241-a547-657f511d1d42.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_63ca7c73-d03b-4498-a4e7-ed86834381b9.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_ptwtxmlx4",
+        "name": "wedding_photo_36.png",
+        "url": "/uploads/selections_original_fd29ef61-3d15-4b1e-8eb8-6c2d5bae6916.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_99985c05-24de-435a-87da-818ddd2b9ba0.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_a2bafmx6l",
+        "name": "wedding_photo_34.png",
+        "url": "/uploads/selections_original_67bf9977-0293-4cff-8b29-aafdef37530f.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_9dbf5aa6-b6e8-4fa8-a920-2f434eec4500.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_hi8qcpi5y",
+        "name": "wedding_photo_35.png",
+        "url": "/uploads/selections_original_45fecbf8-2199-4adc-980d-6c822d7e11af.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_b8af1b43-fdfe-4f9a-8bce-e44ab7a598fa.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_60v90kb4l",
+        "name": "wedding_photo_39.png",
+        "url": "/uploads/selections_original_ce6319f4-799d-42d3-b77c-d0978bd9a86d.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_a14a0f5e-65fe-449b-a8dc-14621f90a837.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_97tjulosv",
+        "name": "wedding_photo_37.png",
+        "url": "/uploads/selections_original_33494a2e-34c8-4fbd-9f9e-965c4f3b11b8.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_518de0b7-ff75-4d0b-aa44-004a0da2b614.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_au7kt7xzn",
+        "name": "wedding_photo_38.png",
+        "url": "/uploads/selections_original_c797489e-6d87-449d-a83a-676d4c6ed88b.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_559b69d9-8e35-4e40-8890-a57164e4b417.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_1jobdy18c",
+        "name": "wedding_photo_40.png",
+        "url": "/uploads/selections_original_58f56a9c-7a4b-4097-8222-680f5202fb51.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_0885750d-48c6-4abc-9d31-a6f4f47bb4b9.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_tegehqebg",
+        "name": "wedding_photo_41.png",
+        "url": "/uploads/selections_original_bdad6d95-c3a7-475c-9306-6fbe7818b3c4.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_75f3147a-e03d-4934-979d-924e60f780f9.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_js0p8whf0",
+        "name": "wedding_photo_43.png",
+        "url": "/uploads/selections_original_12f7d090-366e-4e95-9a39-ecce86453308.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_eacc4bb5-7ebb-4610-9efd-b902762740c5.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_mpxpsqcmd",
+        "name": "wedding_photo_44.png",
+        "url": "/uploads/selections_original_40e5494b-9d25-47f3-afcc-f6a2c84db744.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_ccc9973f-a139-4ccf-8e7b-7cd922058917.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_g0qy4ego3",
+        "name": "wedding_photo_46.png",
+        "url": "/uploads/selections_original_a2accaf0-29f2-4ba2-8332-bb5fa72dc72a.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_7a0622f7-3920-43b9-b496-bdbc7dbcf349.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_jbn3ib8gm",
+        "name": "wedding_photo_45.png",
+        "url": "/uploads/selections_original_34912791-1fee-40c4-9bd4-2b95bce63274.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_f186d9a2-fc8b-4887-8d6c-7d6700740361.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_re0apzghw",
+        "name": "wedding_photo_47.png",
+        "url": "/uploads/selections_original_69990218-09d8-472c-a3bc-f78e9f457306.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_a68f92ee-9942-4576-8ed9-41ac39b6df4b.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_sulk963he",
+        "name": "wedding_photo_42.png",
+        "url": "/uploads/selections_original_6464d2fc-513e-4597-b8e4-78c6a3cde039.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_1f4a2bd3-53ec-4452-9840-c7861c52011a.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_h3dytm3j5",
+        "name": "wedding_photo_49.png",
+        "url": "/uploads/selections_original_55915f9e-15a4-4542-8e87-0c454370aeee.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_056af266-143b-43ed-a6bd-a38a1d7c90ff.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_6ueka2fbj",
+        "name": "wedding_photo_48.png",
+        "url": "/uploads/selections_original_f5f19d27-9305-429a-b767-5759828a9674.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_3f8760db-fa53-4917-ab7d-2a813eec7876.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_6kdy0jhaf",
+        "name": "wedding_photo_50.png",
+        "url": "/uploads/selections_original_02a79560-dd54-4d27-aea7-310e368b4d33.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_9eacb496-b3ef-4e16-882a-ec0fca66bee7.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_g4mrt8djo",
+        "name": "wedding_photo_53.png",
+        "url": "/uploads/selections_original_fc042e8e-b186-47c4-ae50-fc8412b440d7.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_f6a4d752-88e0-4442-84d9-8a5acd740b7a.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_7p5it132i",
+        "name": "wedding_photo_51.png",
+        "url": "/uploads/selections_original_ac9d2859-63c2-4400-bead-1669d0808bee.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_4e0e766a-427c-472d-8f6c-e75fed460106.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_zxxo4mjrq",
+        "name": "wedding_photo_52.png",
+        "url": "/uploads/selections_original_ab2d421a-0fbe-4147-8b0e-ea1a182ea939.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_700b4dc9-47c0-4555-a981-0329865b13ee.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_u68ymiwvh",
+        "name": "wedding_photo_54.png",
+        "url": "/uploads/selections_original_d2f70973-31df-4ab5-8385-dbf7cc13f92d.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_0bdefbbd-88a6-472e-b5cb-6b62334bb170.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_elaywx0gx",
+        "name": "wedding_photo_55.png",
+        "url": "/uploads/selections_original_0cf93b96-42a1-49c9-8332-cb07c33b995d.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_d761b34f-a8e1-4d3b-b44b-8081be2f79cc.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_73nc6vchc",
+        "name": "wedding_photo_56.png",
+        "url": "/uploads/selections_original_16845ed4-e5bd-49cd-ae47-a975df0d6b58.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_c18af695-3582-43ef-94bb-1f61ae27767f.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_fuudg4aan",
+        "name": "wedding_photo_59.png",
+        "url": "/uploads/selections_original_929f4c4a-e6f0-4b01-883d-22c0ec097491.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_ae71f5b4-ee71-4f3b-ae55-5f7085d3e167.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_ee0nfi1l9",
+        "name": "wedding_photo_57.png",
+        "url": "/uploads/selections_original_fac40870-8b16-44f6-a65c-8618e7230d46.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_e95ad719-bb69-46bc-a673-ee315fb64138.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_8dbjhfd8z",
+        "name": "wedding_photo_58.png",
+        "url": "/uploads/selections_original_745791b7-42ab-4b73-b6df-a68d137ae0b2.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_1780dc5a-f19d-4716-bc8b-6c4a36de30ee.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_5lpkqonjt",
+        "name": "wedding_photo_60.png",
+        "url": "/uploads/selections_original_c3b3688c-2ef7-436f-a1dc-468eacae78b4.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_9ce0339e-b620-440a-9bd3-b2d4486a02a7.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_uke8u0aid",
+        "name": "wedding_photo_64.png",
+        "url": "/uploads/selections_original_a620ad52-d81f-47dc-9863-97b6b737fdd8.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_224b513d-f8b9-4e8f-a20b-f513fd495a53.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_11y1270aa",
+        "name": "wedding_photo_61.png",
+        "url": "/uploads/selections_original_6d431f17-63de-4173-8db4-412f501e333f.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_1f83e8b3-f9cf-4ea3-8259-9ba6e7bac394.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_vld13xlke",
+        "name": "wedding_photo_65.png",
+        "url": "/uploads/selections_original_fee363d7-4b62-4811-b0cd-e8d97fdc46fc.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_f8f3c439-0098-4380-838e-baaece24b319.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_ytcifrnwg",
+        "name": "wedding_photo_63.png",
+        "url": "/uploads/selections_original_152be824-6697-4acb-8c7c-95c382be4d8d.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_0eaa8ded-e5d9-4a15-afce-b52bf66c5431.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_47x2gyahm",
+        "name": "wedding_photo_68.png",
+        "url": "/uploads/selections_original_bacfb8aa-b4f2-410b-b32e-d46d329e6b89.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_9291c719-66f1-428c-86b0-b36adf102f17.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_zy85tpl3l",
+        "name": "wedding_photo_67.png",
+        "url": "/uploads/selections_original_6b16eb1d-2106-43c4-93ee-3d3122d64ef3.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_fd214ab7-0fc9-4989-bc41-3a5bf5fa2a94.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_xcpapli5m",
+        "name": "wedding_photo_66.png",
+        "url": "/uploads/selections_original_f06c6055-aa59-4287-8de3-088cc4f7227e.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_12ca609b-f935-473c-84cd-440fc5d8f6ce.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_g9hoayw4o",
+        "name": "wedding_photo_62.png",
+        "url": "/uploads/selections_original_e64ac9ab-8529-47e2-b3a3-8d5fae289b24.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_ef67bb02-e0fd-4dc7-b412-6f5a9dd4c63b.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_du98b9sk8",
+        "name": "wedding_photo_69.png",
+        "url": "/uploads/selections_original_f287eafc-ef3a-4645-9e8a-ca4246684197.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_d86a0a56-141c-45d4-9c74-a159162752d8.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_um75gzc9g",
+        "name": "wedding_photo_70.png",
+        "url": "/uploads/selections_original_27efacd1-1401-4548-a14e-b7666f6fa1de.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_c7251492-04bf-43c9-8842-d4e4e3c46cbc.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_mtijuojgc",
+        "name": "wedding_photo_75.png",
+        "url": "/uploads/selections_original_864a3ae5-65d8-424b-af1a-ab853bf3a5ba.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_49cf1900-74da-47c1-a3d2-077319f694e1.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_87gnqjy8u",
+        "name": "wedding_photo_72.png",
+        "url": "/uploads/selections_original_43202438-aefd-417e-8573-f6b1ad577c92.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_b0607884-da4a-4b17-8707-59131d56b47d.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_vox87pq4h",
+        "name": "wedding_photo_73.png",
+        "url": "/uploads/selections_original_abbf4da1-dd63-4705-98a8-6a732ecc1f04.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_6522e37b-ae2f-422c-b102-36da7835666e.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_6xedxr2dv",
+        "name": "wedding_photo_76.png",
+        "url": "/uploads/selections_original_2bd9c431-30e0-4d5e-9b30-d9abc69c3aa2.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_6cb44561-45b7-4e29-b305-e633f59e4b49.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_56ij83ya0",
+        "name": "wedding_photo_71.png",
+        "url": "/uploads/selections_original_d00b3f03-10e9-44b8-915f-80723d1f979c.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_f9983517-6be0-49b7-bce9-22dbb389891c.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_cthk14dlb",
+        "name": "wedding_photo_74.png",
+        "url": "/uploads/selections_original_da9ce7d8-bf11-4c76-afee-796a96407086.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_f256935a-c72d-4ecf-b0f7-db29ee089b71.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_phctvu2t0",
+        "name": "wedding_photo_77.png",
+        "url": "/uploads/selections_original_70669016-acb0-473a-ad98-0646787da660.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_7a0ca26b-564b-4192-b62c-bd4fd769b51d.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_oq81ikzem",
+        "name": "wedding_photo_79.png",
+        "url": "/uploads/selections_original_4080ac6d-9761-4bfb-b27f-ea8a520d649d.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_7619662f-2bfb-4b21-90c0-1ea5e0b292d8.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_8owpf1hq7",
+        "name": "wedding_photo_78.png",
+        "url": "/uploads/selections_original_9f17cd9d-3e37-44d9-a3fb-9762c671d7e9.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_b8165c93-7384-4dbd-9425-f9a7b52e7628.png",
+        "status": "pending"
+      },
+      {
+        "_id": "photo_1zzhcfo6p",
+        "name": "wedding_photo_80.png",
+        "url": "/uploads/selections_original_ceb25176-eeed-4d1a-9bc1-f59abcc4dcad.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_0d1954b5-776f-4f99-8031-2d123e2233a8.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": false
+  },
+  {
+    "_id": "k7o1jqxpd",
+    "createdAt": "2026-07-04T11:58:53.789Z",
+    "ownerId": "tmps5fwbn",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_izgn1mdh6",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_306a4cb3-a1d5-4247-891f-a3b0aea8c3f3.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_82ddb032-6259-49d4-8436-5a421dd0bcdd.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T11:58:53.798Z"
+      },
+      {
+        "_id": "photo_8knnuslih",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_1118127f-e96d-4af7-8a47-c3f8d7c7d98a.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_affc490a-85c7-4c8b-8bb7-9d7fed7c348f.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T11:58:53.805Z"
+      },
+      {
+        "_id": "photo_sdzhcrits",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_c6b2d02d-5c40-434c-a196-3c4788a1f490.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_3148cfe3-2d35-4448-8747-97e86e54817e.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  },
+  {
+    "_id": "ynrw5vuzp",
+    "createdAt": "2026-07-04T12:02:53.614Z",
+    "ownerId": "jatzaz94p",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_h4wlriedw",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_d95e7d20-0531-49e9-a0ee-8d31994df274.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_528a7303-11e6-40f6-9ad1-601ebb4eec7f.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T12:02:53.622Z"
+      },
+      {
+        "_id": "photo_o4z7oizik",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_5552e3fd-de86-40e2-ad2d-8a99c9101967.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_98856ffb-dcb5-43e3-a09a-0e03ed60ec73.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T12:02:53.629Z"
+      },
+      {
+        "_id": "photo_3silwnve6",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_1405d816-9aaf-4e31-8fda-b237f32a92ed.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_8ad23476-33f2-4e96-b419-c38bcd843706.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  },
+  {
+    "_id": "ihkw5f1tr",
+    "createdAt": "2026-07-04T12:05:13.160Z",
+    "ownerId": "05bkthih7",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_ee2eef9sw",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_13238863-0a6e-4a28-9987-02b043024786.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_4efd5b76-bb97-49c5-8560-b5b4bdd8b74b.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T12:05:13.168Z"
+      },
+      {
+        "_id": "photo_1lvoaerb4",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_0da64b2e-f100-4c5e-8eea-f41550081298.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_1ad69dfb-942e-45c6-bb69-1d40c72d8b3b.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T12:05:13.174Z"
+      },
+      {
+        "_id": "photo_smco83pb6",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_103263ba-59aa-44ec-ba85-454b7208234d.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_ec4c4837-bac5-4fe7-9272-dc8a5a63a6b9.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  },
+  {
+    "_id": "32ii6uccm",
+    "createdAt": "2026-07-04T12:08:11.703Z",
+    "ownerId": "zuzattpfv",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_3j3qukjyw",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_bfa6dc24-144b-43a1-b478-a8d3c78e2af0.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_5be5d9a3-8add-43f2-97b8-ff562008b013.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T12:08:11.712Z"
+      },
+      {
+        "_id": "photo_1vihgxdyd",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_448a2be6-8fd8-4a6e-bd00-69a1e1fd531b.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_3eca3d5f-aef5-4f2d-9374-590347841314.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T12:08:11.719Z"
+      },
+      {
+        "_id": "photo_5fu7awv0s",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_df6813c3-a5f1-4c77-b501-cebd6acd69b1.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_1ea055c8-3c2f-4c06-96f3-389a4ebf9343.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  },
+  {
+    "_id": "l85n1rx92",
+    "createdAt": "2026-07-04T12:12:15.386Z",
+    "ownerId": "a5w0pug8a",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_nff7trj9e",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_c94c508a-bada-451d-b910-6836178e4b48.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_e803e5b3-7ca9-46dc-a7fd-ad7f68a0c2ee.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T12:12:15.395Z"
+      },
+      {
+        "_id": "photo_jed6avdft",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_d425bac0-1e95-47a1-90b1-1f4c58e6033f.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_08ff79b4-f476-49b5-9420-7710d16bed10.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T12:12:15.402Z"
+      },
+      {
+        "_id": "photo_br3fqxtz3",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_a856eeb0-90f6-4987-b017-55f2c76e78cc.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_2de81b40-d84d-4d19-be95-6cc4008191ea.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  },
+  {
+    "_id": "vnyz8c1g1",
+    "createdAt": "2026-07-04T12:15:24.638Z",
+    "ownerId": "qkzm9v8p7",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_ehrmuxo2m",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_cc36f0d7-a9d4-4240-9ba2-3a8eddfaaf46.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_f2114564-d42e-41e3-bb2d-e71bd4f2b2de.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T12:15:24.646Z"
+      },
+      {
+        "_id": "photo_8vmfs4un1",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_1d46e2cf-9d20-4762-af8b-dbf56fda0eb1.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_f197ce41-4988-4a89-9bbe-b3825ab7e172.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T12:15:24.652Z"
+      },
+      {
+        "_id": "photo_d4jhj4iey",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_ddd08fd1-3742-4db5-a3ae-5452df01a64a.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_2898bb8e-af2c-4262-b4b0-2b244050b42c.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  },
+  {
+    "_id": "agaj4x2i9",
+    "createdAt": "2026-07-04T12:17:47.831Z",
+    "ownerId": "4zzbtwxez",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_we3gnu6ds",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_237fa632-c030-48b9-97f3-d8c039cb3be5.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_3dbb8568-10ac-441b-afde-8ceb20526ee2.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T12:17:47.840Z"
+      },
+      {
+        "_id": "photo_wzuhcgvy7",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_1f662c3e-6c6b-4bbc-87a9-065f0a8ed033.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_ea02c5a3-79e7-4850-b07b-702b094d6ab8.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T12:17:47.846Z"
+      },
+      {
+        "_id": "photo_v8ak6cff6",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_6d68bd38-8dbf-4f34-8e68-6fc999e85e89.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_0a856e17-ec87-4ee0-8eec-7862513f496a.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  },
+  {
+    "_id": "kh8fx3ssp",
+    "createdAt": "2026-07-04T12:19:44.499Z",
+    "ownerId": "n5dlv0dgt",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_vyklzud6z",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_f77ec047-6daf-4d14-87d4-cec15743cdc2.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_6979534f-5670-4a4a-9824-a7b9ea152b2b.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T12:19:44.508Z"
+      },
+      {
+        "_id": "photo_91gf7lzgr",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_1331eb70-3fa1-4e22-804a-77ab3dca213b.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_dbf3f7d9-5864-4a6e-a21c-f5d7db9566e1.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T12:19:44.517Z"
+      },
+      {
+        "_id": "photo_qetg6bucy",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_cb3f262c-a867-4724-beb0-51d8e462aa14.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_2024efae-0376-4588-951a-0b9b426a30b9.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  },
+  {
+    "_id": "shcvny22w",
+    "createdAt": "2026-07-04T12:21:45.836Z",
+    "ownerId": "h1b7u1es5",
+    "title": "E2E Wedding Project",
+    "photos": [
+      {
+        "_id": "photo_kaf3m59v1",
+        "name": "photo_2.png",
+        "url": "/uploads/selections_original_37ae4c8e-7dd4-432f-94c9-ffc066bbdc24.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_5de5b2cd-10cb-4162-a0e7-8264e643c641.png",
+        "status": "selected",
+        "selectionTime": "2026-07-04T12:21:45.845Z"
+      },
+      {
+        "_id": "photo_ym809h1bp",
+        "name": "photo_1.png",
+        "url": "/uploads/selections_original_134366cf-0a54-4131-9627-76ce83db8e83.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_aa182c74-3a6a-4a08-8591-619973cf8c4e.png",
+        "status": "rejected",
+        "rejectedTime": "2026-07-04T12:21:45.851Z"
+      },
+      {
+        "_id": "photo_eg6k5yp35",
+        "name": "photo_3.png",
+        "url": "/uploads/selections_original_7c44eca7-1d90-4dc5-bf64-a98cb59fc5fa.png",
+        "watermarkedUrl": "/uploads/selections_watermarked_1756ef51-3359-4962-b906-64f426769fab.png",
+        "status": "pending"
+      }
+    ],
+    "clientOpened": false,
+    "selectionStarted": false,
+    "selectionCompleted": true
+  }
+]
